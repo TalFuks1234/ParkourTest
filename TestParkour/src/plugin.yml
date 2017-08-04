@@ -1,0 +1,11 @@
+name: TestParkour
+version: 1.0.0
+author: TheMCSoldier
+description: Parkour plugin for the events lobby
+main: parkour.themcsoldier.plugin.Main
+
+commands:
+  ParkourStart:
+    description: Sends you back to the parkour start.
+  ParkourCheckpoint:
+    description: sends you to your last checkpoint.
